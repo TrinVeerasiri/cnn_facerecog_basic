@@ -15,4 +15,4 @@ The saved model file is <br>
 https://github.com/TrinVeerasiri/cnn_facerecog_basic/blob/master/face_recog_3faces.h5
 
 # Conclusion
-Testing with live camera, result is good when moving our face closer to the camera because it's similar to the picture in train set. The performance on live may improve by increasing the training sample. Capturing face with different background and various angle. Selecting a test set is important too. Similarity between test set and image capture from live feed will help us know a real performance when using this application.  
+Testing with live camera, result is good when moving our face closer to the camera. This is because it's similar to the picture in train set. The performance on live feed may improve by increasing the training sample. Capturing more images of face with different background and various angle. Selecting a test set is important too. Similarity between test set and image capture from live feed will help us know a real performance when using this application.  
